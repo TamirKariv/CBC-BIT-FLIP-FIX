@@ -1,2 +1,2 @@
 # CBC-BIT-FLIP-FIX
-The program finds and restores the flipped bit from the bit flipping attack on CBC Mode.
+A fix for the bit flipping attack on CBC Mode.
